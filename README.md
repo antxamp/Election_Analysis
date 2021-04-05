@@ -3,7 +3,7 @@
 ## Project Overview
 A Colorado Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
 
-1.	Calulate the total number of votes cast.
+1.	Calculate the total number of votes cast.
 
 2.	Get a complete list of candidates who received votes.
 
@@ -23,7 +23,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
    -  Software: Python 3.7.6, Visual Studio Code, 1.55.0
 
 ## Audit Results
-The anaslysis of the election show that:
+The analysis of the election show that:
 
    -  There were 369,711 votes cast in the election.
  
@@ -42,7 +42,7 @@ The anaslysis of the election show that:
    
       -     Diana DeGette received 73.8% of the vote and 272,892 number of votes
 
-      -     Raymon Anthony Doane recieved 3.1% of the vote and 11,606 number of votes
+      -     Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes
 	
    -  The winner of the election was:
 
@@ -65,6 +65,6 @@ The anaslysis of the election show that:
   
 ## Audit Summary
    -  To summarize the election analysis using the PyPoll script we were able to achieve a detailed analysis from the election_results.csv file. 
-    We determined all participants, total votes and final results of those votes. This can be script can be applied to many types of scenarios that undertake 
-	a poll, based off of voting data. If you wanted slightly different results you could modify the script to display in descending order from most to the least amount
+    We determined all participants, total votes and final results of those votes. This script can be applied to many types of scenarios that undertake 
+	a poll, based off of a voting style system. If you wanted slightly different results you could modify the script to display in descending order from most to the least amount
 	of votes. Or you can add more data to the election results to display an election for the entire state of Colorado. 
